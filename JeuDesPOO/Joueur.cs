@@ -15,6 +15,7 @@ namespace JeuDesPOO
             PointDeVie = 150; 
         }
 
+#tezt
         private bool EstVouM;
 
         public bool EtatVouM
